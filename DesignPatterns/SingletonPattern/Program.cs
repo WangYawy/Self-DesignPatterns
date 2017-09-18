@@ -10,6 +10,7 @@ namespace SingletonPattern
     {
         static void Main(string[] args)
         {
+            Singleton.Instance();
         }
     }
 }
